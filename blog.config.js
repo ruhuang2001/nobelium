@@ -21,7 +21,7 @@ const BLOG = {
   socialLink: 'https://cn.gravatar.com/ruhuang2001',
   seo: {
     keywords: ['Blog', 'Website', 'Notion', "ruhuang", "ruhuang2001"],
-    googleSiteVerification: 'G-RFQTPXY357' // Remove the value or replace it with your own google site verification code
+    googleSiteVerification: 'BsiVappP2yaPDGGylGn7bEAJz1UqK1Li99D25eKLfpE' // Remove the value or replace it with your own google site verification code
   },
   notionPageId: process.env.NOTION_PAGE_ID, // DO NOT CHANGE THIS！！！
   notionAccessToken: process.env.NOTION_ACCESS_TOKEN, // Useful if you prefer not to make your database public
